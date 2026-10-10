@@ -2,6 +2,8 @@
 
 A free, independent study companion for **Investment Funds in Canada (IFC)**, offered by the Canadian Securities Institute. Created by Daniel Sultan, following [InvestmentRegulation.ca](https://investmentregulation.ca/).
 
+Study at **[IFCPrep.ca](https://ifcprep.ca/)**. The public source is available at [itsdanielsultan/IFC-Prep](https://github.com/itsdanielsultan/IFC-Prep).
+
 Open `index.html` in a modern browser. The app, content, styles, icons and local-font choices are self-contained: no package installation, build step, account or external runtime dependency is required. Downloaded HTML works offline; linked source pages require internet access.
 
 The site includes:
@@ -29,6 +31,6 @@ Content review: **October 4, 2026**. The six revised opening checks were additio
 
 There is no advertising, analytics, external-font service or tracking code. Study data is not transmitted by the app. Browser or hosting-provider access logs may exist when the hosted page is opened. Public source links open third-party sites with their own practices.
 
-The release is a static site. Serve `index.html`, `LICENSE` and this README with a static host; no server processing is needed. The expanded HTML is 945,040 bytes before compression (about 277 KB with gzip when enabled by the host). Domain deployment is a separate step and has not been performed for this preview.
+The release is a static site published through GitHub Pages at `ifcprep.ca`, with HTTPS enforced. Serve `index.html`, `LICENSE` and this README with a static host; no server processing is needed. The expanded HTML is 945,040 bytes before compression (about 277 KB with gzip when enabled by the host).
 
 App code and original study content are **MIT licensed**, copyright 2026 Daniel Sultan. Third-party source materials remain under their owners’ terms. Feather icons retain their MIT copyright notice in `LICENSE`.
