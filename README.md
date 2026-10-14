@@ -6,7 +6,7 @@ Study at **[IFCPrep.ca](https://ifcprep.ca/)**. The public source is available a
 
 Open `index.html` in a modern browser. The app, content, styles, icons and local-font choices are self-contained: no package installation, build step, account or external runtime dependency is required. Downloaded HTML works offline; linked source pages require internet access.
 
-The black-and-white F favicon is embedded as a tiny SVG for sharp browser tabs, including in the downloaded HTML. `favicon.ico` supplies 16, 32 and 48 pixel fallbacks; `apple-touch-icon.png` supplies a 180 pixel home-screen icon. `favicon.svg` is the editable vector source. Serve these files beside the HTML for the hosted fallbacks.
+The black-and-white stacked study-card favicon is embedded as a tiny SVG for sharp browser tabs, including in the downloaded HTML. `favicon.ico` supplies 16, 32 and 48 pixel fallbacks; `apple-touch-icon.png` supplies a 180 pixel home-screen icon. `favicon.svg` is the editable vector source. Serve these files beside the HTML for the hosted fallbacks.
 
 The site includes:
 
@@ -36,6 +36,6 @@ Content review: **October 4, 2026**. The six revised opening checks and the publ
 
 There is no advertising, analytics, external-font service or tracking code. Study data is not transmitted by the app. Browser or hosting-provider access logs may exist when the hosted page is opened. Public source links open third-party sites with their own practices.
 
-The release is a static site published through GitHub Pages at `ifcprep.ca`, with HTTPS enforced. Serve `index.html`, the favicon files, `LICENSE` and this README with a static host; no server processing is needed. The expanded HTML is 1,046,665 bytes before compression (about 311 KB with gzip when enabled by the host).
+The release is a static site published through GitHub Pages at `ifcprep.ca`, with HTTPS enforced. Serve `index.html`, the favicon files, `LICENSE` and this README with a static host; no server processing is needed. The expanded HTML is 1,046,762 bytes before compression (about 311 KB with gzip when enabled by the host).
 
 App code and original study content are **MIT licensed**, copyright 2026 Daniel Sultan. Third-party source materials remain under their owners’ terms. Feather icons retain their MIT copyright notice in `LICENSE`.
